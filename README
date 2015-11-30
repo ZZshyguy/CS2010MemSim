@@ -1,0 +1,12 @@
+CS2010
+Zachary Lapointe
+Lab assignment 3
+Memory simulator using a class
+Memory is implemented as an array
+The driver.cpp file is just an example used to manipulate the memory class and use the methods/functions
+
+To compile type:
+make
+
+To run type:
+./DRIVER
